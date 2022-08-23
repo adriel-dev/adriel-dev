@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adriel Felix</h1>
-<h3 align="center">A beginner web developer from Brazil.</h3>
+<h3 align="center">A web developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **Java, Spring and general frontend skills.**
+- 📚 I’m currently learning **Java, Spring and Angular.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
