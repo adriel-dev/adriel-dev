@@ -12,6 +12,6 @@
 
 <h3 align="left">Some languages and tools that I work with:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,angular,bootstrap,js,html,css,mysql,postgres,mongodb,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,angular,typescript,js,html,css,bootstrap,mysql,postgres,mongodb,git)](https://skillicons.dev)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adriel-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="adriel-dev" /></p>
