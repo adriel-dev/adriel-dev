@@ -14,4 +14,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,angular,bootstrap,js,html,css,mysql,postgres,mongodb,git)](https://skillicons.dev)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriel-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="adriel-dev" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriel-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="adriel-dev" /></p>
