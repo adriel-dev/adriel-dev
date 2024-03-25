@@ -7,7 +7,7 @@
 <h3 align="left">Want to get in touch? Send me a message:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adriel-felix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriel-felix" height="30" width="40" /></a>
-<a href="mailto:adrielandrade3@gmail.com" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgmail_281769&psig=AOvVaw0ywFwMsXztl1DQjtSXNhFf&ust=1711469232800000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCHzvDlj4UDFQAAAAAdAAAAABAE" alt="adriel-felix" height="30" width="30" /></a>
+<a href="mailto:adrielandrade3@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="adriel-felix" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Some languages and tools that I work with:</h3>
