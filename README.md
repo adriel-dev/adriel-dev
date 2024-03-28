@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adriel Felix</h1> 
 <h3 align="center">Fullstack Developer</h3>
 
-- 📚 I’m currently improving my skills in **Java, Kotlin, Spring, Quarkus and Angular.**
+- 📚 I’m currently improving my skills in **Java, Kotlin, Spring and Angular.**
 - Please, feel free to take a look in my repositories and see some of my skills for yourself! :)
 
 <h3 align="left">Want to get in touch? Send me a message:</h3>
