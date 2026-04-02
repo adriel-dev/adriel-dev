@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Adriel Felix</h1> 
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 📚 I’m currently improving my skills in **Java, Kotlin, Spring and Angular.**
+- 📚 Always improving my skills in **Java, Kotlin and Spring**
+- Ports and Adapters adept
 - Please, feel free to take a look in my repositories and see some of my skills for yourself! :)
 
 <h3 align="left">Want to get in touch? Send me a message:</h3>
@@ -13,5 +14,3 @@
 <h3 align="left">Some languages and tools that I work with:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,angular,typescript,js,html,css,bootstrap,mysql,postgres,mongodb,git)](https://skillicons.dev)
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adriel-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="adriel-dev" /></p>
